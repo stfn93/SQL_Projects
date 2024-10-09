@@ -1,0 +1,8 @@
+If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?
+I would probably divide moods in three categories: Happy, Chill, Sad and based on two most prominent features determine which mood is best.
+
+Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener. What better ways of
+calculating this aura would you propose?
+The current calculation may oversimplify the listener's preferences by averaging diverse songs without considering play count and context,
+so a better approach would involve weighted averages based on time spent listening to some particulare song and analyzing listening patterns like time during day
+in which songs were played.
